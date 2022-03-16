@@ -1,10 +1,7 @@
 # build crystal
-from itertools import count
 import math
-from re import X 
 import matplotlib.pyplot as plt
 import numpy as np
-import cv2 as cv
 
 natom = 100
 alatt = 10
